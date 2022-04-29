@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/luiztiago/gh-package-test/issues"
   },
-  "homepage": "https://github.com/luiztiago/gh-package-test#readme"
+  "homepage": "https://github.com/luiztiago/gh-package-test#readme",
+  "publishConfig": {
+    "@luiztiago:registry": "https://npm.pkg.github.com"
+  }
 }
